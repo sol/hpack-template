@@ -1,0 +1,4 @@
+# NOTE: This is just an example! It is not meant for real world usage!
+default-extensions:
+  - RecordWildCards
+  - DeriveFunctor
